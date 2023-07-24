@@ -1,2 +1,2 @@
 # control-version
-Git und GitHub - refresh bildung Repo
+Git und GitHub - refresh bildung repo
